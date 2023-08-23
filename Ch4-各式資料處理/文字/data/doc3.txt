@@ -1,0 +1,9 @@
+If you need a quick brush-up, or learning Python for the first time, you've come to the right place!
+
+Let's get started learning one of the most easiest coding languages out there right now. There's no need to fret if you haven't coded before. By the time you finish this course, you'll be a pro at Python!
+
+Python is a great and friendly language to use and learn. It fun, and can be adapted to both small and large projects. Python will cut your development time greatly and overall, its much faster to write Python than other languages. This course will be a quick way to understand all the major concepts of Python programming. You'll be a whiz in no time.
+
+This course is a one-stop-shop for everything you'll need to know to get started with Python, along with a few incentives. We'll begin with the basics of Python, learning about strings, variables, and getting to know the data types. We'll soon move on to the loops and conditions in Python. Afterwards, we'll discuss a bit of file manipulation and functions. By then, you'll know all the basics of Python.
+
+I hope you're excited to dive into the World of Python with this course. Well, what are you waiting for? Let's get started!
