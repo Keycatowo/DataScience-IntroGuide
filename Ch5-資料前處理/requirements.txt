@@ -1,0 +1,7 @@
+seabron
+matplotlib
+plotly
+nbformat
+openpyxl
+pandas
+numpy
