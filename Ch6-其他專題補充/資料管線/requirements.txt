@@ -1,0 +1,5 @@
+dagster
+dagit
+pandas
+beautifulsoup4
+lxml
